@@ -18,3 +18,6 @@ If that analysis is to be done in R, the file should be read by:
 ```{r}
 ds <- read.table("tidy_data.txt", header=TRUE)
 ```
+
+The strusture of the file with the tidied dataset is described in the [code book](codebook.md)
+
